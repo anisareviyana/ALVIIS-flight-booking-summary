@@ -1,0 +1,5 @@
+{
+  "name": "FlightPay Summary",
+  "description": "A high-fidelity flight booking summary and payment UI featuring a modern iOS-inspired design with interactive components like a slide-to-pay button and real-time countdown timer.",
+  "requestFramePermissions": []
+}
